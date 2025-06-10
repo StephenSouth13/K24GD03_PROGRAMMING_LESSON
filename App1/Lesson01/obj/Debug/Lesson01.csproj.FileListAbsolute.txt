@@ -1,0 +1,8 @@
+C:\Users\Predator\Documents\GitHub\K24GD03_PROGRAMMING_LESSON\App1\Lesson01\bin\Debug\Lesson01.exe.config
+C:\Users\Predator\Documents\GitHub\K24GD03_PROGRAMMING_LESSON\App1\Lesson01\bin\Debug\Lesson01.exe
+C:\Users\Predator\Documents\GitHub\K24GD03_PROGRAMMING_LESSON\App1\Lesson01\bin\Debug\Lesson01.pdb
+C:\Users\Predator\Documents\GitHub\K24GD03_PROGRAMMING_LESSON\App1\Lesson01\obj\Debug\Lesson01.csproj.AssemblyReference.cache
+C:\Users\Predator\Documents\GitHub\K24GD03_PROGRAMMING_LESSON\App1\Lesson01\obj\Debug\Lesson01.csproj.CoreCompileInputs.cache
+C:\Users\Predator\Documents\GitHub\K24GD03_PROGRAMMING_LESSON\App1\Lesson01\obj\Debug\Lesson01.exe
+C:\Users\Predator\Documents\GitHub\K24GD03_PROGRAMMING_LESSON\App1\Lesson01\obj\Debug\Lesson01.pdb
+C:\Users\Predator\Documents\GitHub\K24GD03_PROGRAMMING_LESSON\App1\Lesson01\obj\Debug\Lesson01.exe.config
