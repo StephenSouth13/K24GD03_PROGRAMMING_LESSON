@@ -27,6 +27,7 @@ namespace Lesson01
                 c = a / b;
                 Console.WriteLine($"The result of {a} / {b} is: {c}");
                 Console.WriteLine("Press any key to exit.");
+                Console.ReadKey();
             }
         }
     }
