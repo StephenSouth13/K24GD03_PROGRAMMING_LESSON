@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Predator\\Documents\\GitHub\\K24GD03_PROGRAMMING_LESSON\\App1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEE1D20-B92B-4088-9298-3BEA4B36346C}|Lesson01\\Lesson01.csproj|c:\\users\\predator\\documents\\github\\k24gd03_programming_lesson\\app1\\lesson01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAEE1D20-B92B-4088-9298-3BEA4B36346C}|Lesson01\\Lesson01.csproj|solutionrelative:lesson01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Documents\\GitHub\\K24GD03_PROGRAMMING_LESSON\\App1\\Lesson01\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson01\\Program.cs",
+              "ToolTip": "C:\\Users\\Predator\\Documents\\GitHub\\K24GD03_PROGRAMMING_LESSON\\App1\\Lesson01\\Program.cs",
+              "RelativeToolTip": "Lesson01\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowBsAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T02:01:13.819Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
